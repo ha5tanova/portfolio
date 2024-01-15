@@ -14,4 +14,7 @@ Template for Net 7 framework with PostgreSQL database
 > Npgsql.EntityFrameworkCore.PostgreSQL 7.0
 >>
 >>
-
+Microsoft.EntityFrameworkCore.InMemory
+Microsoft.EntityFrameworkCore.SqlServer
+Npgsql.EntityFrameworkCore.PostgreSQL 
+Swashbuckle.AspNetCore
