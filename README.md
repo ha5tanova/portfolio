@@ -28,8 +28,6 @@ Npgsql
 ```
 ```
 Npgsql.EntityFrameworkCore.PostgreSQL 7.0
-```
-
 ``````
 ## Предварительная настройка
 
